@@ -1,6 +1,6 @@
-#!bin/python
+#!/bin/python
 #script to manage alignment for selection analysis
-#usage - python alignment_hack.py file1.txt file2.txt
+#usage - python alignment_hack.py file1.fas file2.fas
 
 from Bio import SeqIO
 import sys
